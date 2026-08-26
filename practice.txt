@@ -1,0 +1,16 @@
+Git and GitHub Practice
+
+Name: Ali Zain
+Role: Flutter Developer
+
+Today I am learning Git and GitHub.
+
+Git commands practiced:
+- git init
+- git status
+- git add
+- git commit
+- git push
+- git pull
+- git branch
+- git switch
