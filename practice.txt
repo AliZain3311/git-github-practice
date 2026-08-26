@@ -14,3 +14,8 @@ Git commands practiced:
 - git pull
 - git branch
 - git switch
+
+Second Update
+
+I successfully connected my local Git repository
+with GitHub and pushed my changes.
